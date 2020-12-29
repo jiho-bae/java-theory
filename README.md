@@ -1,3 +1,3 @@
-# java_study
+# Java Programming Study
 
-Practice code by referring to the book.
+Studying Java theory
