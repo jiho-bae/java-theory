@@ -1,4 +1,4 @@
-package chap11;
+package chap11.ex01;
 
 public class Member{
 	public String id;
@@ -16,5 +16,10 @@ public class Member{
 			}
 		}
 		return false;
+	}
+	
+	@Override
+	public int hashCode() {
+		return id.hashCode();
 	}
 }

@@ -1,4 +1,4 @@
-package chap11;
+package chap11.ex01;
 
 public class MemberExample {
 
